@@ -26,4 +26,5 @@ public class FigureTest {
 		t.printCenter();
 		r.printCenter();
 	}
+	
 }
