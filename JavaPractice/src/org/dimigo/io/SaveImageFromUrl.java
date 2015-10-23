@@ -20,7 +20,6 @@ public class SaveImageFromUrl {
 				while((result = is.read(buf)) != -1) {
 					os.write(buf, 0, result);
 				}
-			
 			}
 		} catch(Exception e) {
 			e.printStackTrace();
